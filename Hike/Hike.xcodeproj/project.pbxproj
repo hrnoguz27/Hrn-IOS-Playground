@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		BACE08852CB3E3B200FEE31A /* Hike.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hike.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BACE08D42CB3E9E700FEE31A /* Hike.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hike.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		BACE08872CB3E3B200FEE31A /* Hike */ = {
+		BACE08D62CB3E9E700FEE31A /* Hike */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Hike;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BACE08822CB3E3B200FEE31A /* Frameworks */ = {
+		BACE08D12CB3E9E700FEE31A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BACE087C2CB3E3B200FEE31A = {
+		BACE08CB2CB3E9E700FEE31A = {
 			isa = PBXGroup;
 			children = (
-				BACE08872CB3E3B200FEE31A /* Hike */,
-				BACE08862CB3E3B200FEE31A /* Products */,
+				BACE08D62CB3E9E700FEE31A /* Hike */,
+				BACE08D52CB3E9E700FEE31A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BACE08862CB3E3B200FEE31A /* Products */ = {
+		BACE08D52CB3E9E700FEE31A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BACE08852CB3E3B200FEE31A /* Hike.app */,
+				BACE08D42CB3E9E700FEE31A /* Hike.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BACE08842CB3E3B200FEE31A /* Hike */ = {
+		BACE08D32CB3E9E700FEE31A /* Hike */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BACE08932CB3E3B300FEE31A /* Build configuration list for PBXNativeTarget "Hike" */;
+			buildConfigurationList = BACE08E22CB3E9E800FEE31A /* Build configuration list for PBXNativeTarget "Hike" */;
 			buildPhases = (
-				BACE08812CB3E3B200FEE31A /* Sources */,
-				BACE08822CB3E3B200FEE31A /* Frameworks */,
-				BACE08832CB3E3B200FEE31A /* Resources */,
+				BACE08D02CB3E9E700FEE31A /* Sources */,
+				BACE08D12CB3E9E700FEE31A /* Frameworks */,
+				BACE08D22CB3E9E700FEE31A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				BACE08872CB3E3B200FEE31A /* Hike */,
+				BACE08D62CB3E9E700FEE31A /* Hike */,
 			);
 			name = Hike;
 			packageProductDependencies = (
 			);
 			productName = Hike;
-			productReference = BACE08852CB3E3B200FEE31A /* Hike.app */;
+			productReference = BACE08D42CB3E9E700FEE31A /* Hike.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BACE087D2CB3E3B200FEE31A /* Project object */ = {
+		BACE08CC2CB3E9E700FEE31A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					BACE08842CB3E3B200FEE31A = {
+					BACE08D32CB3E9E700FEE31A = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
 			};
-			buildConfigurationList = BACE08802CB3E3B200FEE31A /* Build configuration list for PBXProject "Hike" */;
+			buildConfigurationList = BACE08CF2CB3E9E700FEE31A /* Build configuration list for PBXProject "Hike" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = BACE087C2CB3E3B200FEE31A;
+			mainGroup = BACE08CB2CB3E9E700FEE31A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = BACE08862CB3E3B200FEE31A /* Products */;
+			productRefGroup = BACE08D52CB3E9E700FEE31A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BACE08842CB3E3B200FEE31A /* Hike */,
+				BACE08D32CB3E9E700FEE31A /* Hike */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BACE08832CB3E3B200FEE31A /* Resources */ = {
+		BACE08D22CB3E9E700FEE31A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BACE08812CB3E3B200FEE31A /* Sources */ = {
+		BACE08D02CB3E9E700FEE31A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		BACE08912CB3E3B300FEE31A /* Debug */ = {
+		BACE08E02CB3E9E800FEE31A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		BACE08922CB3E3B300FEE31A /* Release */ = {
+		BACE08E12CB3E9E800FEE31A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		BACE08942CB3E3B300FEE31A /* Debug */ = {
+		BACE08E32CB3E9E800FEE31A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -273,7 +273,7 @@
 			};
 			name = Debug;
 		};
-		BACE08952CB3E3B300FEE31A /* Release */ = {
+		BACE08E42CB3E9E800FEE31A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BACE08802CB3E3B200FEE31A /* Build configuration list for PBXProject "Hike" */ = {
+		BACE08CF2CB3E9E700FEE31A /* Build configuration list for PBXProject "Hike" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BACE08912CB3E3B300FEE31A /* Debug */,
-				BACE08922CB3E3B300FEE31A /* Release */,
+				BACE08E02CB3E9E800FEE31A /* Debug */,
+				BACE08E12CB3E9E800FEE31A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BACE08932CB3E3B300FEE31A /* Build configuration list for PBXNativeTarget "Hike" */ = {
+		BACE08E22CB3E9E800FEE31A /* Build configuration list for PBXNativeTarget "Hike" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BACE08942CB3E3B300FEE31A /* Debug */,
-				BACE08952CB3E3B300FEE31A /* Release */,
+				BACE08E32CB3E9E800FEE31A /* Debug */,
+				BACE08E42CB3E9E800FEE31A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BACE087D2CB3E3B200FEE31A /* Project object */;
+	rootObject = BACE08CC2CB3E9E700FEE31A /* Project object */;
 }
